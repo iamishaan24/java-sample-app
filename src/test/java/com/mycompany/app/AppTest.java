@@ -17,7 +17,7 @@ public class AppTest
     @Test
     public void twoAndThreeIsFive() throws Exception {
         final long result = new App().add(2, 3);
-        assertThat(result, is(6L));
+        assertThat(result, is(5L));
     }
 
     @Test
