@@ -4,7 +4,7 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>Ishaan</artifactId>
   <packaging>jar</packaging>
-  <version>5.1</version>
+  <version>5.2</version>
   <name>my-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
